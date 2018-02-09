@@ -5,7 +5,7 @@ William Flores, Nicholas Wong, Spencer Harder, Steven Tran
 Uses tfidf cosine to evaluate queries and find the most relevant xkcd's.
 Hosted on Heroku @ xkcdalizer.herokuapp.com
 
-This is also the firt implementation of a search API for xkcd (at least that I could find at the time).
+This is also the first implementation of a search API for xkcd (at least that I could find at the time).
 
 
 ### Usage
