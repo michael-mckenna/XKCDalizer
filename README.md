@@ -7,6 +7,7 @@ Hosted on Heroku @ xkcdalizer.herokuapp.com
 
 This is also the first implementation of a search API for xkcd (at least that I could find at the time).
 
+![alt text](https://i.scdn.co/image/2dbea135d586526a94f1eedb115d372127957d48)
 
 ### Usage
 * Install the dependencies by using the command `npm install`
